@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Gag-Dv
 
-<!--
-**gag30333009-star/gag30333009-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a developer focused on building modern web applications with Python, Django, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- Python
+- Django
+- Django REST Framework
+- JavaScript
+- HTML5
+- CSS3
+- REST APIs
+
+### 🚀 Featured Projects
+
+- 🎬 [Best-Movie-Finder](https://github.com/gag30333009-star/Best-Movie-Finder) — Full-stack movie discovery application
+- ♟️ [Checkers-vs-AI](https://github.com/gag30333009-star/Checkers-vs-AI) — Checkers game with AI
+- 🎥 [Movie-Backend](https://github.com/gag30333009-star/Movie-Backend) — Django REST API
+
+### 🌍 Open to Remote Opportunities
+
+I'm interested in junior developer opportunities and building useful web applications.
+
+---
+
+⭐ Thanks for visiting my profile!
